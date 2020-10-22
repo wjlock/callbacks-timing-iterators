@@ -28,3 +28,33 @@ function sayHello(name) {
     return msg
 }
 console.log(sayHello('Haley'))
+
+function sayHello(name) {
+    let msg = 'Hello, ' + name + '. How are you?';
+    return msg
+}
+console.log(sayHello('James'))
+
+function sayHello(name) {
+    let msg = 'Hello, ' + name + '. How are you?';
+    return msg
+}
+console.log(sayHello('Ned'))
+
+function sayHello(name) {
+    let msg = 'Hello, ' + name + '. How are you?';
+    return msg
+}
+console.log(sayHello('Bob'))
+
+function sayHello(name) {
+    let msg = 'Hello, ' + name + '. How are you?';
+    return msg
+}
+console.log(sayHello("Jessica"))
+
+function sayHello(name) {
+    let msg = 'Hello, ' + name + '. How are you?';
+    return msg
+}
+console.log(sayHello('Joe'))
